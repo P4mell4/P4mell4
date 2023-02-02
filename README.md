@@ -1,4 +1,4 @@
-## Olá, eu sou a Pam👋🏻
+## Hello, you can call me Pam👋🏻
 
 
 - 🌱 Learning JavaScript
