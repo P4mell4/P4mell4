@@ -1,7 +1,7 @@
 ## Hello, you can call me Pam👋🏻
 
 
-- 🌱 Learning JavaScript
+- 🌱 Learning PHP
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like Metallica 
 - 🇧🇷
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Makima" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1070863906483998722/1070866569112076429/drinkcoffeandcode1.jpg">
+  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1070863906483998722/1071202213071945788/Frase_motivacional_do_dia.jpg">
 </div>
 
 ##
