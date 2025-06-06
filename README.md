@@ -1,7 +1,7 @@
 ## Hello, you can call me Pam👋🏻
 
 
-- 🌱 Learning PHP
+- 🌱 Learning SCRUM
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like Metallica 
 - 🇧🇷
