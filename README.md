@@ -2,8 +2,7 @@
 
 
 - 🌱 Learning SCRUM
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i like Metallica 
+- 😄 Pronouns: she/her 
 - 🇧🇷
 
 
