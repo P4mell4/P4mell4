@@ -1,21 +1,13 @@
-## Hello, you can call me Pam👋🏻
+## 🤍 Olá, meu nome é Pamella!
 
+Estudante de Tecnólogo em Inteligência Artificial e Dados Inteligentes na PUCPR, com 19 anos e residente em São Paulo. Possuo formação técnica integrada ao Ensino Médio pela ETEC e atualmente faço parte do programa Alura + Oracle Next Education (ONE), Grupo G9, onde venho aprofundando conhecimentos em tecnologia, programação e soluções orientadas a dados.
 
-- 🌱 Learning SCRUM
-- 😄 Pronouns: she/her 
-- 🇧🇷
+---
 
+## ◻ Minhas Skills
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4mell4&show_icons=true&theme=dark)
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1070863906483998722/1071202213071945788/Frase_motivacional_do_dia.jpg">
-</div>
-
-##
-
-  <a href = "mailto:https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
