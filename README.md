@@ -17,10 +17,10 @@ Possuo formação técnica integrada ao Ensino Médio pela ETEC em DS, atualment
 
 ## ◻  Entre em contato :
 <p align='center'>
-  <a href="pamella.carvalho.001@gmail.com">
+  <a href="mailto:pamella.carvalho.001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>
-  <a href="www.linkedin.com/in/pamella-moreira-de-carvalho-5b4158372">
+  <a href="https://www.linkedin.com/in/pamella-moreira-de-carvalho-5b4158372/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/pamk_rock">
@@ -28,5 +28,5 @@ Possuo formação técnica integrada ao Ensino Médio pela ETEC em DS, atualment
   </a>
 </p>
 
-### Ultima leitura 📄
+### 📄 Ultima leitura :
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 	
